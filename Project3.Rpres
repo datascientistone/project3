@@ -17,7 +17,7 @@ Then the tool presents the user with an estimate of a death year for the input.
 
 ***
 
-<img src="https://raw.githubusercontent.com/mishakob/project3/master/ToolCapture.PNG">
+<img src="https://raw.githubusercontent.com/mishakob/project3/master/ToolCapture.jpg">
 
 Tool description (cont.)
 ========================================================
@@ -35,12 +35,12 @@ Example
 ========================================================
 
 So, if someone were to provide the following input:
-<img src=https://raw.githubusercontent.com/mishakob/project3/master/exampleMale.PNG>
+<img src=https://raw.githubusercontent.com/mishakob/project3/master/exampleMale.jpg>
 
 ***
 
 ...he would get the following output:
-<img src=https://raw.githubusercontent.com/mishakob/project3/master/outputMale.PNG>
+<img src=https://raw.githubusercontent.com/mishakob/project3/master/outputMale.jpg>
 
 
 Happy Halloween
