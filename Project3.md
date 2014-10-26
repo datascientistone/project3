@@ -23,16 +23,23 @@ Tool description (cont.)
 ========================================================
 
 The Death Year calculation is based on the average world life expectancy for 2010-2013.
-In that time period the average life expectancy for men has been 68.5 years, while the women around the globe had average life expectancy of 73.5 years.
+In that time period the average life expectancy for men has been 69 years, while the women around the globe had average life expectancy of 74 years (rounded up).
 
 ![plot of chunk unnamed-chunk-1](Project3-figure/unnamed-chunk-1-1.png) 
 
-Usage opportunities (cont.)
+Example
 ========================================================
 
-![plot of chunk unnamed-chunk-2](Project3-figure/unnamed-chunk-2-1.png) 
+So, if someone were to provide the following input:
+<img src=https://raw.githubusercontent.com/mishakob/project3/master/exampleMale.PNG>
+
+***
+
+...he would get the following output:
+<img src=https://raw.githubusercontent.com/mishakob/project3/master/outputMale.PNG>
+
 
 Happy Halloween
 ========================================================
 
-Happy Halloween
+<img src=http://www.wrighthomes.com/wp-content/uploads/2014/10/Halloween-21.jpg>

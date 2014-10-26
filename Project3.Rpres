@@ -23,7 +23,7 @@ Tool description (cont.)
 ========================================================
 
 The Death Year calculation is based on the average world life expectancy for 2010-2013.
-In that time period the average life expectancy for men has been 68.5 years, while the women around the globe had average life expectancy of 73.5 years.
+In that time period the average life expectancy for men has been 69 years, while the women around the globe had average life expectancy of 74 years (rounded up).
 
 ```{r echo=FALSE}
 m <- matrix( c(69,74),nrow=1,ncol=2) 
@@ -31,14 +31,19 @@ colnames(m) <- c("men","women")
 barplot(m, ylab = "Average Life Expectancy 2010-2013")
 ```
 
-Usage opportunities (cont.)
+Example
 ========================================================
 
-```{r, echo=FALSE}
-plot(cars)
-```
+So, if someone were to provide the following input:
+<img src=https://raw.githubusercontent.com/mishakob/project3/master/exampleMale.PNG>
+
+***
+
+...he would get the following output:
+<img src=https://raw.githubusercontent.com/mishakob/project3/master/outputMale.PNG>
+
 
 Happy Halloween
 ========================================================
 
-Happy Halloween
+<img src=http://www.wrighthomes.com/wp-content/uploads/2014/10/Halloween-21.jpg>
