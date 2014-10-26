@@ -1,0 +1,33 @@
+Death Year Prediction tool
+========================================================
+author: Michael Kobiliansky
+date: October 2014
+
+Tool description
+========================================================
+
+For more details on authoring R presentations click the
+**Help** button on the toolbar.
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+Usage opportunities
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Usage opportunities (cont.)
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Happy Halloween
+========================================================
+
+Happy Halloween
