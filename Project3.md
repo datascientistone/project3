@@ -2,34 +2,30 @@ Death Year Prediction tool
 ========================================================
 author: Michael Kobiliansky
 date: October 2014
+transition: rotate
 
 Tool description
 ========================================================
 
-For more details on authoring R presentations click the
-**Help** button on the toolbar.
+The Death Year Prediction is a rather simple tool, really.
+It needs a user input of:
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- Birth Year
+- Gender
 
-Usage opportunities
+Then the tool presents the user with an estimate of a death year for the input.
+
+***
+
+<img src="https://raw.githubusercontent.com/mishakob/project3/master/ToolCapture.PNG">
+
+Tool description (cont.)
 ========================================================
 
+The Death Year calculation is based on the average world life expectancy for 2010-2013.
+In that time period the average life expectancy for men has been 68.5 years, while the women around the globe had average life expectancy of 73.5 years.
 
-```r
-summary(cars)
-```
-
-```
-     speed           dist       
- Min.   : 4.0   Min.   :  2.00  
- 1st Qu.:12.0   1st Qu.: 26.00  
- Median :15.0   Median : 36.00  
- Mean   :15.4   Mean   : 42.98  
- 3rd Qu.:19.0   3rd Qu.: 56.00  
- Max.   :25.0   Max.   :120.00  
-```
+![plot of chunk unnamed-chunk-1](Project3-figure/unnamed-chunk-1-1.png) 
 
 Usage opportunities (cont.)
 ========================================================
